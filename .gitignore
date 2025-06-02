@@ -4,6 +4,45 @@ __pycache__/
 *.sqlite3
 *.log
 
+# Virtual env
+venv/
+.venv/
+env/
+ENV/
+
+# IDEs
+.vscode/
+.idea/
+
+# Django
+*.pot
+*.pyc
+db.sqlite3
+*.py[cod]
+*.db
+
+# Environment variables
+.env
+.env.*
+
+# Node modules (if applicable for frontend later)
+node_modules/
+dist/
+build/
+
+# macOS
+.DS_Store
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.log
+
 # Django
 *.db
 *.pyc
